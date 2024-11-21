@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-montagnon&show_icons=true&locale=en&layout=compact" alt="eric-montagnon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-montagnon&show_icons=true&locale=en" alt="eric-montagnon" /></p>
+
 <!--
 **eric-montagnon/eric-montagnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
